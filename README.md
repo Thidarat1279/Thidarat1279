@@ -2,7 +2,7 @@
 
 <!-- Banner / Cover -->
 <p>
-  <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/481126947_3932541560394281_7799569488015507127_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHV23l5pFHM3Wle91SltLkXbrBU6KNKHJ9usFToo0ocn6UwTM8rfmRlvnkSOag37Ko1xPGdlBQRKMdp26HlFbpe&_nc_ohc=_La5HmYofNMQ7kNvwFdO7zQ&_nc_oc=Adl8_Ibyh1OfdWb-qcr1ZGYQ10-Gd7lUiYcgfJBn7SNuL4CebzO86or5lhuazWN-MkwwhUsubel5vRtqXBOUsGIE&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=HeMCAakGjTaJUYqjzE5lDQ&oh=00_Afa6gmAi3xS-6lGulOSBY1a_VuotP_YuZJS06ibxZirPdg&oe=68D9590F" alt="header image" width="250" height="250" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);"/>
+  <img src="https://instagram.fcnx4-1.fna.fbcdn.net/v/t51.2885-19/553060213_17992490774827994_7054796831722595953_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDYyLmMyIn0&_nc_ht=instagram.fcnx4-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QE0lGGVs3DNSDLu-ghu25n7pECPSQfNqdy1TN8Out1ErViwNshoahLqPMAoJS41PJ_Fhj_f14LaJEqR1KDPxwSA&_nc_ohc=en699FhGRUwQ7kNvwHNplfR&_nc_gid=qlyPAwIVxPVJAvhjSgzIEw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfaRtC3cDFJE3dFg7fUQ3hWqYZpv7--E8NsbNqJdx980Lg&oe=68D9FC2E&_nc_sid=7d3ac5" alt="header image" width="250" height="250" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);"/>
 </p>
 
 <p>
@@ -113,6 +113,7 @@
 </div>
 
 <p align="center" style="font-size: 1.2em; color: #FFB6C1; font-weight: bold;">✨ Thank you for visiting my profile! 💕</p>
+
 
 
 
