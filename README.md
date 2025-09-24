@@ -23,7 +23,7 @@
 - 🧑‍💻 Currently building a test automation project  
 - 🛠 Skilled in Python & Robot Framework  
 - 🎯  2025 Goal: Land an internship in software testing 
-- 📫  Contact: t.thirat47@gmail.com | LinkedIn
+- 📫  Contact: t.thirat47@gmail.com 
 ---
 ## 🛠 Tools
 
@@ -92,3 +92,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satinee1234&style=flat-square" alt="profile views"/>
 </p>
+
