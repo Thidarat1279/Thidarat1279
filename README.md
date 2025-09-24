@@ -6,8 +6,9 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=3000&pause=1000&color=1E4C9A&center=true&vCenter=true&width=600&lines=Hi,%20I’m%20Thidarat%20Thongthip+👋" alt="Typing SVG" style="animation: typing 4s steps(30) 1s infinite normal both;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Hello!,%20🐾💖I’m%20Thidarat%20Thongthip+👋" alt="Typing SVG" style="animation: typing 4s steps(30) 1s infinite normal both;"/>
 </p>
+
 
 <p align="center">
   <strong style="font-size: 1.3em; color: #1E4C9A;">Software Tester • Python & Robot Framework • Continuous Learner</strong><br/>
@@ -28,8 +29,7 @@
   <p style="font-size: 1.2em; margin: 10px 0;">🎯 2025 Goal: Land an internship in software testing</p>
   <p style="font-size: 1.2em; margin: 10px 0;">☎️ Contact: <a href="mailto:t.thirat47@gmail.com" style="color:#2a9d8f;">t.thirat47@gmail.com</a></p>
 </div>
-
-## 🛠 Tools
+🛠 Tools
 
 ### 🤖 Test Automation
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -98,14 +98,21 @@
 
 </div>
 
+---
 
+
+## 📈 GitHub Stats
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Thidarat1279&show_icons=true&theme=github-light&hide_border=true&bg_color=F9F9FF&title_color=F6A5C0&text_color=6D6D6D&icon_color=F1A7C5&count_private=true"/>
 </div>
 
+---
+## 📊 GitHub Contribution Graph
 <div align="center">
   <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=Thidarat1279&theme=github-light&hide_border=true&bg_color=F9F9FF&color=F08080&line=FF6347&point=6495ED&area=true&area_color=FAD1D8"/>
 </div>
+
+<p align="center" style="font-size: 1.2em; color: #FFB6C1; font-weight: bold;">✨ Thank you for visiting my profile! 💕</p>
 
 
 
