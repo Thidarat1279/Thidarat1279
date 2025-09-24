@@ -20,18 +20,22 @@
 ---
 
 ## 🚀 About Me
-- 🧑‍💻 Currently building a test automation project  
-- 🛠 Skilled in Python & Robot Framework  
-- 🎯  2025 Goal: Land an internship in software testing 
-- 📫  Contact: t.thirat47@gmail.com 
+〰︎ ｡✨𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝚃𝚑𝚒𝚍𝚊𝚛𝚊𝚝! ·˚ ༘ 💕
+
+🌟I am a fourth-year IT student at Maejo University with a passion for software testing. 
+
+🌟I enjoy creating test cases and plans, and I'm eager to apply my skills in problem-solving and teamwork to ensure high-quality software.
+
 ---
 ## 🛠 Tools
 
 ### 🤖 Test Automation
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-FF4088?style=for-the-badge&logo=robotframework&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Robot_Framework-000000.svg?style=for-the-badge&logo=robot-framework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white"/>
+</div>
 
 ### 🧰 Program Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -61,30 +65,27 @@
 </div>
 
 ---
-
-## 🎓 Education
+🎓 Education & Certifications
 - *Bachelor’s Degree:* B.Sc. (Graduated 2025)  
 - *University:* Maejo University  
 - *Location:* San Sai District, Chiang Mai, Thailand  
 
 ---
 
-## ✍🏻 Contact
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/satinee.khundam.2024)  
-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satinee.khundam123@gmail.com)  
-- [![Phone](https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white)](tel:0612517835)  
-
+## ✍🏻 🅲🅾🅽🆃🅰🅲🆃
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/thiikggg) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:t.thirat47@gmail.com)  [![Phone](https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white)](tel:0955391406) 
 ---
 
 ## 📊 GitHub Contribution Graph
 <div align="center">
-  <img src="https://ghchart.rshah.org/satinee1234" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/Thidarat1279" alt="GitHub Contribution Chart" />
 </div>
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satinee1234&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satinee1234&layout=compact&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thidarat1279&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thidarat1279&layout=compact&hide_border=true" alt="Top Languages">
 </div>
 
 ---
