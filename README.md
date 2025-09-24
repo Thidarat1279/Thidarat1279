@@ -2,7 +2,7 @@
 
 <!-- Banner / Cover -->
 <p>
-  <img src="https://instagram.fcnx4-1.fna.fbcdn.net/v/t51.2885-19/553060213_17992490774827994_7054796831722595953_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDYyLmMyIn0&_nc_ht=instagram.fcnx4-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QE0lGGVs3DNSDLu-ghu25n7pECPSQfNqdy1TN8Out1ErViwNshoahLqPMAoJS41PJ_Fhj_f14LaJEqR1KDPxwSA&_nc_ohc=en699FhGRUwQ7kNvwHNplfR&_nc_gid=qlyPAwIVxPVJAvhjSgzIEw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfaRtC3cDFJE3dFg7fUQ3hWqYZpv7--E8NsbNqJdx980Lg&oe=68D9FC2E&_nc_sid=7d3ac5" alt="header image" width="250" height="250" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);"/>
+  <img src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif" alt="header image" width="250" height="250" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);"/>
 </p>
 
 <p>
@@ -117,6 +117,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satinee1234&style=flat-square&color=FFD1DC&label=PROFILE+VIEWS&labelColor=FFC0CB&logoColor=FFFFFF" alt="profile views"/>
 </p>
+
 
 
 
