@@ -114,6 +114,10 @@
 
 <p align="center" style="font-size: 1.2em; color: #FFB6C1; font-weight: bold;">✨ Thank you for visiting my profile! 💕</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satinee1234&style=flat-square&color=FFD1DC&label=PROFILE+VIEWS&labelColor=FFC0CB&logoColor=FFFFFF" alt="profile views"/>
+</p>
+
 
 
 
